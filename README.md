@@ -18,10 +18,10 @@ Mang đến cho khách hàng những sản phẩm chất lượng, dịch vụ t
 
 ## Thương hiệu của chúng tôi
 
-- **Runam**  
+- **Runam, RuNam Do'R**  
   Chuỗi cửa hàng cà phê và nhà hàng cao cấp với phong cách châu Âu tinh tế, Runam mang đến những thức uống và món ăn độc đáo, phục vụ khách hàng trong không gian sang trọng, thoải mái.
 
-- **Goody Nhà Thành Thanh Niên**  
+- **Goody, Nhà Thành Thanh Niên**  
   Nhà hàng và cà phê nổi bật với không gian ấm cúng, thân thiện, là điểm đến yêu thích cho các buổi gặp gỡ, họp mặt. Tại đây, khách hàng có thể thưởng thức những món ăn đặc sắc với giá cả hợp lý.
 
 ---
